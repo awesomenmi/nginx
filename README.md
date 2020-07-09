@@ -20,5 +20,5 @@ docker run -p 80:80 41201506/nginx-antiddos:latest
 </html>
 ```
 
-[alt-текст!](https://github.com/awesomenmi/nginx/blob/master/Screenshot%20from%202020-07-09%2023-01-10.png)
+![alt-текст](https://github.com/awesomenmi/nginx/blob/master/Screenshot%20from%202020-07-09%2023-01-10.png)
 
