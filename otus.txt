@@ -1,1 +1,1 @@
-41201506/docker
+41201506/nginx-antiddos
